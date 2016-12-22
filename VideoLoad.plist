@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ztgame.RTChatDemo</string>
+				<string>com.sdk.pushtest</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
